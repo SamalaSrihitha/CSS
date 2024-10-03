@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+CSS Sprites
+</title>
+<style>
+p
+{
+visibility : hidden;
+}
+div
+{
+display : none;
+}
+</style>
+</head>
+<body>
+<p> Visibilty:hidden : only it hides from the webpage but takes up the space in the webpage </p>
+<div> display: none : It doesnot take up the space in the webpage </div>
+</body>
+</html>
