@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+CSS Sprites
+</title>
+<style>
+#home-icon
+{
+left : 0 px;
+width : 43 px;
+background : url("cssspritesfile.gif") 0 0;
+}
+#prev-icon
+{
+left :  63 px;
+width : 43 px;
+background : url("cssspritesfile.gif") -46px 0;
+}
+#next-icon
+{
+left : 126 px;
+width : 43 px;
+background : url("cssspritesfile.gif") -91px 0;
+}
+</style>
+</head>
+<body>
+<img src="cssspritesfile.gif" id="home-icon" height="1" weight="1">
+<img src="cssspritesfile.gif" id="prev-icon" height="1" weight="1">
+<img src="cssspritesfile.gif" id="next-icon" height="1" weight="1">
+</body>
+</html>
