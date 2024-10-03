@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+CSS Sprites
+</title>
+<style>
+.underline
+{
+text-decoration : underline;
+}
+.dotted
+{
+text-decoration : underline red dotted;
+}
+.linethrough
+{
+text-decoration :  line-through;
+}
+
+</style>
+</head>
+<body>
+<p class="underline">Using text decoration the content will be underlined</p>
+<p class="dotted"> Using text decoration dotted the underlined content will be in dotted</p>
+<p class="linethrough"> Using this the content will be stripped and line comes on the text</p>
+</body>
+</html>
