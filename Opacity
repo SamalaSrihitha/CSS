@@ -1,0 +1,15 @@
+<!Doctype Html>  
+<Html>     
+<Head>      
+<style>
+p
+{
+opacity : 0.5;
+filter : alpha(opacity=50);
+}
+</style>
+</Head>  
+<Body>   
+<p> Opacity is defined as the degree to which the content is transparent or opaque</p>
+</Body>  
+</Html>  
