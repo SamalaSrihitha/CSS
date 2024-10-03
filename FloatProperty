@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>
+CSS Sprites
+</title>
+<style>
+img
+{
+float : left;
+}
+</style>
+</head>
+<body>
+<img src="good-morning.jpg" width="200" height="200">
+<p> float property values can be right, left, intial, inherit, none </p>
+</body>
+</html>
